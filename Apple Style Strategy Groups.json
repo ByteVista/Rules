@@ -1,0 +1,53 @@
+{
+  "name": "Apple Style Strategy Groups",
+  "icons": [
+    {
+      "name": "Proxy",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/9f/a0/339fa0b8-8b4b-a372-0791-f40706460a99/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/1024x1024bb.png"
+    },
+    {
+      "name": "Final",
+      "url": "https://www.apple.com/v/apps/f/images/overview/apps/tier1/chiclets/shortcuts_chiclet__dexircp9ahm6_xlarge.png"
+    },
+    {
+      "name": "Apple",
+      "url": "https://www.apple.com/v/apps/f/images/overview/apps/tier2/apple_support_chiclet__djopgez3aj6u_large.png"
+    },
+    {
+      "name": "Microsoft",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/bf/d0/66bfd0d5-c01e-25cd-7952-f95d12425945/AppIcon-0-85-220-0-5-0-0-2x-0-0.png/512x512bb.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/e5/d6/2de5d6c4-870b-4d03-35e8-32bd524127a2/logo_gsa_gradient_ios_color-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220-0.png/1024x1024ia.jpeg"
+    },
+    {
+      "name": "AI",
+      "url": "https://cdsassets.apple.com/live/7WUAS350/images/more-icons/siri-ai-beta-icon.png"
+    },
+    {
+      "name": "Game",
+      "url": "https://games.apple.com/mdsa/md-396855a48a0a457e8fe0297614be43b3-m/mdsa/assets/storage/blobs/images/686ef878ada6d98545a08fc1/en-us-large@1x.png"
+    },
+    {
+      "name": "Streaming",
+      "url": "https://help.apple.com/assets/679AD2485431A6B85A0F2343/679AD249D9B5E1B6A80C7115/en_GB/3ee65744f1922a7aeaf79482f30c14a3.png"
+    },
+    {
+      "name": "SpeedTest",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/ba/9a/bdba9a03-b19a-0259-53d5-87f29c88d9af/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.png"
+    },
+    {
+      "name": "Download",
+      "url": "https://www.apple.com/v/apps/f/images/overview/apps/tier1/chiclets/files_chiclet__csi48qoljj8m_xlarge.png"
+    },
+    {
+      "name": "United States",
+      "url": "https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/rounded/256/us.png"
+    },
+    {
+      "name": "Japan",
+      "url": "https://raw.githubusercontent.com/open-assets-hub/country-flag-collection/main/rounded/256/jp.png"
+    }
+  ]
+}
