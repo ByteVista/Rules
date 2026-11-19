@@ -1,0 +1,85 @@
+{
+  "name": "Liquid Glass 27",
+  "icons": [
+    {
+      "name": "Proxy · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Proxy.png"
+    },
+    {
+      "name": "Global · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Global.png"
+    },
+    {
+      "name": "Final · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Final.png"
+    },
+    {
+      "name": "Apple · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Apple.png"
+    },
+    {
+      "name": "Microsoft · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Microsoft.png"
+    },
+    {
+      "name": "Google · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Google.png"
+    },
+    {
+      "name": "AI (Siri) · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/AI.png"
+    },
+    {
+      "name": "Streaming · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Streaming.png"
+    },
+    {
+      "name": "SpeedTest · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/SpeedTest.png"
+    },
+    {
+      "name": "Download · 浅色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Light/Download.png"
+    },
+    {
+      "name": "Proxy · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Proxy.png"
+    },
+    {
+      "name": "Global · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Global.png"
+    },
+    {
+      "name": "Final · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Final.png"
+    },
+    {
+      "name": "Apple · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Apple.png"
+    },
+    {
+      "name": "Microsoft · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Microsoft.png"
+    },
+    {
+      "name": "Google · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Google.png"
+    },
+    {
+      "name": "AI (Siri) · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/AI.png"
+    },
+    {
+      "name": "Streaming · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Streaming.png"
+    },
+    {
+      "name": "SpeedTest · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/SpeedTest.png"
+    },
+    {
+      "name": "Download · 深色",
+      "url": "https://raw.githubusercontent.com/ByteVista/Rules/main/PNG/Dark/Download.png"
+    }
+  ]
+}
